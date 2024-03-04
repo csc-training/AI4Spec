@@ -70,9 +70,9 @@ Once you have set up modules as instructed above, a module named, AI4Spec_tuotir
 
 3. Once login is successfull, you can click "Interactive Sessions" on the top menu bar and then click "Jupyter for courses" (or directly from pinned apps on landing page). Once the app is launched, you can see the different fields to fill in before launching a job. For this course, select the "course Project" and Working directory corresponding  to course project. Then you will be able to see "AI4Spec_tutorial" module under the "Course module" field. You can then launch Jupyter notebook whick will be launched in the interaction partition by default. 
 
-4. Upon successful launching a job, you can click on "connect to Jupyter" to see the course notebook corresponidng to AI4Spec_turoial.
-
 ‼️ Please note that if you reserve any GPU resources for course, the reservations field is visible ONLY during the reservation time.
+
+4. Upon successful launching a job, you can click on "connect to Jupyter" to see the course notebook corresponidng to AI4Spec_turoial.
 
 ##  Useful CSC Documentation
 
