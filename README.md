@@ -1,6 +1,6 @@
-# Deploying AI4Spec notebooks at CSC
+# Deploying AI4Spec Notebooks at CSC
 
-CSC hosts AI4Spec notebooks on Puhti supercomputing environment. A CSC user is expected to have a [user account at CSC](https://docs.csc.fi/accounts/how-to-create-new-user-account/) and be a member of a project that [has access to the Puhti service](https://docs.csc.fi/accounts/how-to-add-service-access-for-project/).  Participants can use either [Puhti web interface](www.puhti.csc.fi) or [SSH client](https://csc-training.github.io/csc-env-eff/hands-on/connecting/ssh-puhti.html) for logging into Puhti. The familiarity with the following main topics help you get started smoothly with notebooks:
+Course participants are expected to have a [user account at CSC](https://docs.csc.fi/accounts/how-to-create-new-user-account/) and be a member of a project that [has access to the Puhti service](https://docs.csc.fi/accounts/how-to-add-service-access-for-project/).  One can use either [Puhti web interface](www.puhti.csc.fi) or [SSH client](https://csc-training.github.io/csc-env-eff/hands-on/connecting/ssh-puhti.html) for logging into Puhti. The familiarity with the following main topics help you get started smoothly with notebooks:
 
 - [A brief primer on using Puhti computing environment](#a-brief-primer-on-using-puhti-computing-environment)
 - [Preparing custom Jupyter notebook for course](#preparing-a-custom-jupyter-notebook-for-course)
@@ -78,6 +78,3 @@ Once you have set up modules as instructed above, a module named, AI4Spec_tuotir
 
 - [Jupyter for course](https://docs.csc.fi/computing/webinterface/jupyter-for-courses/)
 - [Tykky containerisation](https://docs.csc.fi/computing/containers/tykky/)
-
-
-
