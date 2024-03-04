@@ -1,7 +1,6 @@
 # Deploying AI4Spec Notebooks at CSC
 
-Course participants are expected to have a [user account at CSC](https://docs.csc.fi/accounts/how-to-create-new-user-account/) and be a member of a project that [has access to the Puhti service](https://docs.csc.fi/accounts/how-to-add-service-access-for-project/).  One can use either [Puhti web interface](www.puhti.csc.fi) or [SSH client](https://csc-training.github.io/csc-env-eff/hands-on/connecting/ssh-puhti.html) for logging into Puhti. The familiarity with the following main topics help you get started smoothly with notebooks:
-
+Course participants are expected to have a [user account at CSC](https://docs.csc.fi/accounts/how-to-create-new-user-account/) and be a member of a project that [has access to the Puhti service](https://docs.csc.fi/accounts/how-to-add-service-access-for-project/). The project can be a course project created by organisers. The familiarity with the following main topics help organisers get started smoothly with notebooks installation:
 - [A brief primer on using Puhti computing environment](#a-brief-primer-on-using-puhti-computing-environment)
 - [Preparing custom Jupyter notebook for course](#preparing-a-custom-jupyter-notebook-for-course)
 - [Creating a course environment/module(s) on Puhti Web Interface](#creating-a-course-environment-module-on-puhti-web-interface)
