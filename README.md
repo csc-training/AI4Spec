@@ -26,7 +26,7 @@ Here is an example of tykky-based custom installation of AI4Spec noteboks for co
 
 ```bash
 # start an interactive session once you are in login node
-sinteractive -c 4 -m 30000 -d 100  # this command requests a compute node with 8 cores, 30 GB memory and 100 GB local disk space; change settings as needed
+sinteractive -c 4 -m 30000 -d 100  # this command requests a compute node with 4 cores, 30 GB memory and 100 GB local disk space; change settings as needed
 # load needed packages 
 module load git   # git command is not available by default on interactive nodes
 module load purge  # clean environment 
