@@ -1,5 +1,5 @@
 -- Jupyter
-prepend_path("PATH", "/projappl/project_2001659/yetukuri/AI4Spec/bin")
+prepend_path("PATH", "/projappl/project_xxxx/user_name/AI4Spec/bin")
 
 setenv("_COURSE_BASE_NAME", "AI4Spec")
 setenv("_COURSE_NOTEBOOK", "AI4Spec/AI4Spec_Tutorial1.ipynb")
