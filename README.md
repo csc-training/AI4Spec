@@ -2,7 +2,7 @@
 
 This repo contains Jupyter Notebooks for CSC Spring School on Computational
 Chemistry, specifically the AI/ML for QC hands-on. The tutorials have been
-preparted by Milica Todorović (University of Turku) and Kunal Ghosh (Aalto
+prepared by Milica Todorović (University of Turku) and Kunal Ghosh (Aalto
 University).
 
 ## How to run
