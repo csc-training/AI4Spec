@@ -1,20 +1,23 @@
 # AI4Spec
 
-This repo contains Jupyter Notebooks for CSC Spring School on Computational
-Chemistry, specifically the AI/ML for QC hands-on. The tutorials have been
-prepared by Milica Todorović (University of Turku) and Kunal Ghosh (Aalto
-University).
+In these tutorials exercises, we review different AI approaches to predicting
+ground or excited state energy levels simply based on the atomic structure of
+materials. Here we focus on molecules and molecular orbitals, but the same
+principles apply to crystal structures and electronic bands.
+
+The tutorials have been prepared by Milica Todorović (University of Turku)
+and Kunal Ghosh (Aalto University).
 
 ## How to run
 
 The notebooks are run using Mahti web interface, and they rely on CSC's PyTorch
-module `pytorch/2.2`.
+module `pytorch/2.6`.
 
 1. Go to <https://www.mahti.csc.fi>
 2. Select *Jupyter for courses*
-3. Reservation: *sscc-fri-gpu* (applicable during the school)
-4. Project: *project_2006657*
-5. Course module: *sscc-2024-ai4spec*
+3. Reservation: *summer-school-2025*
+4. Project: *project_2014385*
+5. Course module: *summer-school-2025*
 6. Partition: *gpusmall* (default resource settings)
 7. Launch!
 
