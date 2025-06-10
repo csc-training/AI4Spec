@@ -15,9 +15,9 @@ module `pytorch/2.6`.
 
 1. Go to <https://www.mahti.csc.fi>
 2. Select *Jupyter for courses*
-3. Reservation: *summer-school-2025*
-4. Project: *project_2014385*
-5. Course module: *summer-school-2025*
+3. Reservation: select if applicable
+4. Project: select suitable CSC project
+5. Course module: *AI4Spec*
 6. Partition: *gpusmall* (default resource settings)
 7. Launch!
 
