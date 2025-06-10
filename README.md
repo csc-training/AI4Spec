@@ -24,4 +24,4 @@ module `pytorch/2.6`.
 ## Useful links
 
 * [Jupyter for courses](https://docs.csc.fi/computing/webinterface/jupyter-for-courses/)
-* [Python dependencies required to run locally](requirements.txt)
+* [Apptainer definition files for building PyTorch container to run locally](https://github.com/CSCfi/singularity-recipes/tree/main/pytorch)
