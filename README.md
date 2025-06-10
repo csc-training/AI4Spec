@@ -23,5 +23,5 @@ module `pytorch/2.6`.
 
 ## Useful links
 
-* [Jupyter for courses](https://docs.csc.fi/computing/containers/tykky/)
+* [Jupyter for courses](https://docs.csc.fi/computing/webinterface/jupyter-for-courses/)
 * [Python dependencies required to run locally](requirements.txt)
